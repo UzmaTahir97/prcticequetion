@@ -1,3 +1,18 @@
+// chapte -4
+
+let p = c ,h ,m  =1=  5 = 7;
+
+
+// legl vrible
+// _   ,  $ ,number , letter ,camelCaes
+
+// illegl vrible 
+// & , 123y , reserve keyword,let,
+
+
+
+
+// chpter -5
 let x = 10;
 let y = 5;
 
